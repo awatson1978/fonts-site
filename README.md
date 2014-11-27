@@ -1,10 +1,12 @@
-fonts-site
-==========
+## fonts-site
 
-A mini-site for downloading Meteor font packages.
+A mini-site for testing Meteor font packages.  
 
 ------------------------
-### Support
-Found this package to be useful?  Consider tipping the package maintainer for their time!  
+#### Installation  
 
-[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
+````sh
+git clone https://github.com/awatson1978/fonts-site.git
+cd clinical-trials
+meteor
+````
