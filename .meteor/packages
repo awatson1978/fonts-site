@@ -3,14 +3,17 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-standard-app-packages
+meteor-platform
 autopublish
 insecure
-preserve-inputs
-fonts-barcode
-fonts-handwritten
-fonts-pictographs
-bootstrap-3
 less
-fonts-helveticas
-fonts-calligraphy
+
+awatson1978:fonts-handwritten
+awatson1978:fonts-pictographs
+awatson1978:fonts-helveticas
+
+ian:bootstrap-3
+clinical:barcode
+awatson1978:fonts-calligraphy
+clinical:ui-vocabulary
+
