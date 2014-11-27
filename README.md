@@ -1,8 +1,8 @@
 ## fonts-site
 
-A mini-site for testing Meteor font packages.  
+A mini-site for testing Meteor font packages.  Very basic single-page site.
 
-------------------------
+=============================
 #### Installation  
 
 ````sh
