@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="fonts-and-styling"
+             errors="0"
+             failures="0"
+             tests="16">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Fonts and Styling" package="fonts-and-styling" skipped="0"
+    tests="16" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 74 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstHelveticaFont&gt; has css class: &quot;helveticas&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#secondtHelveticaFont&gt; has css class: &quot;colaborate-light&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#thirdHelveticaFont&gt; has css class: &quot;existence-light&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#fourthHelveticaFont&gt; has css class: &quot;print-clearly&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#fifthHelveticaFont&gt; has css class: &quot;quicksand-bold&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sixthHelveticaFont&gt; has css class: &quot;quicksand-light&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstHandwrittenFont&gt; has css class: &quot;chalkdust&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#secondHandwrittenFont&gt; has css class: &quot;harabarahand&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#thirdHandwrittenFont&gt; has css class: &quot;itaintrocketscience&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#fourthHandwrittenFont&gt; has css class: &quot;shelterme&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#fifthHandwrittenFont&gt; has css class: &quot;wildscript&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sixthHandwrittenFont&gt; has css class: &quot;windsong&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstBarcodeFont&gt; has css class: &quot;barcode&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstCalligraphyFont&gt; has css class: &quot;alexbrush&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstPictographFont&gt; has css class: &quot;pictographs&quot;.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>
